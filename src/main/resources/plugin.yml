@@ -1,0 +1,7 @@
+name: PSExtraFlags
+version: '1.1'
+main: com.survivaldub.PSExtraFlags
+api-version: '1.21'
+depend: [WorldGuard]
+softdepend: [ProtectionStones]
+loadbefore: [WorldGuard]

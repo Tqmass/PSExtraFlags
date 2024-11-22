@@ -1,0 +1,6 @@
+com\survivaldub\handlers\FlagHandler.class
+com\survivaldub\handlers\ConfigHandler.class
+com\survivaldub\utils\ColorUtils.class
+com\survivaldub\listeners\TeleportListener.class
+com\survivaldub\listeners\AnimalProtectionListener.class
+com\survivaldub\PSExtraFlags.class
